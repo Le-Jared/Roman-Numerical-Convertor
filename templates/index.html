@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roman to Arabic Converter</title>
+</head>
+<body>
+    <h1>Roman to Arabic Converter</h1>
+    <form method="POST">
+        <label for="roman_numeral">Enter a Roman numeral:</label>
+        <input type="text" name="roman_numeral" required>
+        <button type="submit">Convert</button>
+    </form>
+    {% if result is not none %}
+    <h2>Result: {{ result }}</h2>
+    {% endif %}
+</body>
+</html>
