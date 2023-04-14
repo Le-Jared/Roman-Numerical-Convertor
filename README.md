@@ -3,7 +3,7 @@ Simple web app for assessment with testing
 
 # How to use on macOS/Linux
 Enter the folder
-> cd Roman Numerical Convertor
+> cd Roman-Numerical-Convertor
 
 Create the Environment
 > python3 -m venv venv
@@ -16,7 +16,7 @@ Install Flask
 
 # How to use on Windows
 Enter the folder
-> cd myproject
+> cd Roman-Numerical-Convertor
 
 Create the Environment
 > py -3 -m venv venv
