@@ -1,5 +1,5 @@
 # Roman-Numerical-Convertor
-Simple web app for assessment with testing
+Simple tool for assessment with testing
 
 # How to use on macOS/Linux
 Enter the folder
